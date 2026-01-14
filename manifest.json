@@ -1,0 +1,11 @@
+{
+    "heroblade":  {
+                      "version":  "3.0.1.30427",
+                      "checksum":  "sha256:7c36b2395fa0cd9229438d8ecafebf0252a2886b6f1aa473e0b28967a7ca4b3d",
+                      "release_notes":  "## HeroBlade v3.0.1.30427\n\nAuto-generated release on 2026-01-14 16:56:46\n\n*Note: Add release notes to releasenotes.txt for custom release notes.*",
+                      "mandatory":  false,
+                      "download_url":  "https://github.com/LaniEngine/7dz25uc5nt7m6mxbcq39t1rmdy9tyrdhyo15hv09h9dtx1OY8i/releases/download/heroblade-v3.0.1.30427/rptlpbuz-v3.0.1.30427.zip.enc",
+                      "file_size":  31568032,
+                      "release_date":  "2026-01-14"
+                  }
+}
